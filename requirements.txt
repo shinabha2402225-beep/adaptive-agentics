@@ -1,0 +1,5 @@
+langgraph>=0.2.0
+langchain-core>=0.2.0
+pydantic>=2.7.0
+pytest>=8.0.0
+pytest-cov>=5.0.0
